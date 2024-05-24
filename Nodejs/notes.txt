@@ -1,0 +1,18 @@
+NODE JS IS platform for taking js to serverside
+js is non blocking 
+it also supports the asynchronius behaviore
+it usese 3 concepts for asynchronous ness 
+1.callbacks
+2.promises
+3.async-await
+
+using request for httprequests
+
+using yargs@3.15.0 for taking user input 
+
+ipinfo.com
+
+Material for fullstack developemaent : https://github.com/SkillsMetrix/fullstack/
+
+there is a javascript test for next saturday 25/05/2024
+
